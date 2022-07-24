@@ -1,5 +1,5 @@
 body{
-    background: #f5f4e6;
+    background: rgba(168, 99, 204, 0.53);
 }
 .header{
     background-color: #8d789a;
@@ -19,9 +19,6 @@ body{
     background-color: #e5d4a0;
     color: black;
 }
-
-
-
 
 h1{
     display: flex;

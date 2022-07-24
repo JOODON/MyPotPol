@@ -23,13 +23,13 @@
 <body>
 <section class="login-form">
     <h1>LOGO DESIGN</h1>
-    <form action=" ">
+    <form action="loginAction.jsp">
         <div class="int-area">
-            <input type="text" name="id" id="id" autocapitalize="off" required>
+            <input type="text" name="userID" id="id" autocapitalize="off" required>
             <label for="id">USER NAME</label>
         </div>
         <div class="int-area">
-            <input type="password" name="pw" id="pw" autocapitalize="off" required>
+            <input type="password" name="userPassword"id="pw" autocapitalize="off" required>
             <label for="pw">PASSWORD</label>
         </div>
         <div class="btn-area">
